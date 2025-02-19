@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: test1
+  description: test1
+spec:
+  type: service
+  lifecycle: experimental
+  owner: yamamoto-testuser1
