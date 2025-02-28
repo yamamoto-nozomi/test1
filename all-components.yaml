@@ -18,3 +18,4 @@ spec:
     - https://github.com/backstage/backstage/blob/master/packages/catalog-model/examples/components/wayback-archive-ingestion-component.yaml
     - https://github.com/backstage/backstage/blob/master/packages/catalog-model/examples/components/wayback-archive-storage-component.yaml
     - https://github.com/backstage/backstage/blob/master/packages/catalog-model/examples/components/wayback-search-component.yaml
+    
