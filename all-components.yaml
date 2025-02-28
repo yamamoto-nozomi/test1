@@ -4,7 +4,6 @@ metadata:
   name: example-components
   description: A collection of all Backstage example components
 spec:
-  type: github
   targets:
     - https://github.com/backstage/backstage/blob/master/packages/catalog-model/examples/components/artist-lookup-component.yaml
     - https://github.com/backstage/backstage/blob/master/packages/catalog-model/examples/components/petstore-component.yaml
@@ -15,4 +14,7 @@ spec:
     - https://github.com/backstage/backstage/blob/master/packages/catalog-model/examples/components/playback-lib-component.yaml
     - https://github.com/backstage/backstage/blob/master/packages/catalog-model/examples/components/www-artist-component.yaml
     - https://github.com/backstage/backstage/blob/master/packages/catalog-model/examples/components/shuffle-api-component.yaml
-    - https://github.com/yamamoto-testuser1/test1/blob/main/catalog-info.yaml
+    - https://github.com/backstage/backstage/blob/master/packages/catalog-model/examples/components/wayback-archive-component.yaml
+    - https://github.com/backstage/backstage/blob/master/packages/catalog-model/examples/components/wayback-archive-ingestion-component.yaml
+    - https://github.com/backstage/backstage/blob/master/packages/catalog-model/examples/components/wayback-archive-storage-component.yaml
+    - https://github.com/backstage/backstage/blob/master/packages/catalog-model/examples/components/wayback-search-component.yaml
