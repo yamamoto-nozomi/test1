@@ -3,6 +3,8 @@ kind: Location
 metadata:
   name: example-components
   description: A collection of all Backstage example components
+  annotations:
+  backstage.io/techdocs-ref: dir:./
 spec:
   targets:
     - https://github.com/backstage/backstage/blob/master/packages/catalog-model/examples/components/artist-lookup-component.yaml
@@ -18,4 +20,3 @@ spec:
     - https://github.com/backstage/backstage/blob/master/packages/catalog-model/examples/components/wayback-archive-ingestion-component.yaml
     - https://github.com/backstage/backstage/blob/master/packages/catalog-model/examples/components/wayback-archive-storage-component.yaml
     - https://github.com/backstage/backstage/blob/master/packages/catalog-model/examples/components/wayback-search-component.yaml
-    
